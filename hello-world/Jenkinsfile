@@ -23,7 +23,7 @@ pipeline {
         }
         stage('Tests') {
             steps {
-                echo 'Changes done by Sakshi Nemade' 
+                echo 'Changes done by Jay Sanghavi' 
             }
         }
         stage('Run Integration Tests') {
